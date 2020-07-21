@@ -15,8 +15,8 @@ new Vue({
             uuid: '3802fa0c-830d-47a0-a19f-9616c3fcd8ae',
             path: 'https://course-ec-api.hexschool.io/api/'
         },
-        token: '',
-        isNew: '',
+        // token: '',
+        // isNew: '',
     },
     methods: {
 
